@@ -1,3 +1,3 @@
 # API-Testing
 
-![Postman GET Request](/images/GET-SingleBoard.jpg)
+![Postman GET Request](images/GET-SingleBoard.JPG)
